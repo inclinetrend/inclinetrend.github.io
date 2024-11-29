@@ -1,4 +1,4 @@
-![Incline Trend Logo](https://inclinetrend.com/img/incline-trend-logo-with-contact.png)
+![Incline Trend Logo](img/incline-trend-logo-with-contact.png)
 
 # Welcome to Incline Trend - Your Trusted Financial Advisory Partner
 
